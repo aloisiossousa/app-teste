@@ -2,3 +2,5 @@ Testando criação de API no cursor
 
 Author: Aloísio Silva de Sousa
 Data de hoje: 23/08/2025
+
+Teste dois
